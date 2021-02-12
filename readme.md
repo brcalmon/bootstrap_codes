@@ -4,4 +4,4 @@ Feel free to use the code shared here, improvements and criticisms are always ac
 
 bootstrap template to create portfolio / study and code in - [Fonte](https://startbootstrap.com/theme/freelancer)
 
-<img src="bootstrap.png"/>
+<img src="bootstrap.gif"/>
